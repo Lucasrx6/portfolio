@@ -1,7 +1,8 @@
 # Portfolio pessoal
 
 ## Objetivo
-Este é o repositório do meu portfólio, com o objetivo de apresentar meus projetos, habilidades e informações pessoais.
+Meu portfolio é um projeto que desenvolvi em Html, CSS e Bootstrap com o objetivo de aprimorar minhas habilidades em desenvolvimento web. 
+Ele é uma maneira de demonstrar meu trabalho e compartilhar meus projetos com outras pessoas.
 
 ## Funcionalidades
 - `Seção 1`: Página inicial com apresentação e informações pessoais.
